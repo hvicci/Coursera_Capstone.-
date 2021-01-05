@@ -1,0 +1,8 @@
+Lets first import the required libraries.
+import pandas as pd
+import numpy as np
+Lets do a simple test to validate our environment.
+print('Hello Capstone Project Course!')
+Hello Capstone Project Course!
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/74f434ec-f221-4272-acc6-1331c9e2a300/view?access_token=4753fa9bc26361bf1cf72ddbb9365ea9711554d2f6ec5374ef1d61cbf3620ec7
